@@ -1,0 +1,93 @@
+header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-bottom: 2rem;
+    background-color: #d2001c;
+    color: #faaf19;
+    padding: 3rem;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    color: #faaf19;
+    text-shadow: -4px, -9px, 7px #111111;
+}
+
+body {
+    margin: 0;
+    font-family: Tomorrow, sans-serif;
+}
+
+.vsOilers {
+    background-color: #ff4c00;
+    color: #041e42;
+
+h1 {
+    color: #faaf19;
+}
+}
+
+.vsPredators {
+    background-color: #ffb81c;
+    color: #041e42;
+
+h1 {
+    color: #faaf19;
+}
+}
+
+.vsIslanders {
+    background-color: #00539b;
+    color: #f47d30;
+
+h1 {
+    color: #faaf19;
+}
+}
+
+.vsRangers {
+    background-color:#0038a8;
+    color: #ffffff;
+
+h1 {
+    color: #faaf19;
+}
+}
+
+main {
+    display: flex;
+    margin: 2rem;
+}
+#context {
+    flex: 1;
+    margin-right:2rem;
+}
+
+#gamenotes {
+    flex:1;
+    border-left: 5px solid #ffffff;
+    padding-left: 3rem;
+} 
+
+#gamenotesimage {
+    max-width:400px;
+}
+
+#banner {
+    width: 712px;
+    height: 400px;
+}
+
+* {
+box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
